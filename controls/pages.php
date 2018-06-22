@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Adrien
- * Date: 10/04/2018
- * Time: 05:32
- */
+
 require_once ('modals/include.dao.php');
 $includeDao=new includeDao();
 $recentes=$includeDao->getRecentes();

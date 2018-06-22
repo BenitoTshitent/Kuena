@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Adrien
- * Date: 16/04/2018
- * Time: 00:17
- */
 
 
 if(isset($_GET['p'],$_GET['r']) && $_GET['p']=='page' && !empty($_GET['r']) ){

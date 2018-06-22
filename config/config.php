@@ -1,12 +1,5 @@
 <?php
 
-/**
- * Created by PhpStorm.
- * User: Adrien
- * Date: 23/11/2017
- * Time: 16:04
- */
-
 class Config
 {
     static function getConnexion() {

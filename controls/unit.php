@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Adrien
- * Date: 24/05/2018
- * Time: 10:19
- */
 
 if(isset($_GET['p'],$_GET['r'],$_GET['i']) && $_GET['p']=='unit' && !empty($_GET['r']) && !empty($_GET['i'])){
     require_once ('modals/include.dao.php');

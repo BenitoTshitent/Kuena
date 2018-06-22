@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Adrien
- * Date: 24/05/2018
- * Time: 13:48
- */
 
 if(isset($_POST['nom'],$_POST['pseudo'],$_POST['numero'],$_POST['pass1'],$_POST['pass2']) &&
     !empty($_POST['nom']) && !empty($_POST['pseudo']) && !empty($_POST['numero'])

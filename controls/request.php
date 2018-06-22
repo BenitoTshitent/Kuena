@@ -1,11 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Adrien
- * Date: 23/05/2018
- * Time: 10:21
- */
-if(isset($_GET['id'],$_GET['pseudo'],$_GET['tel'],$_GET['token'])
+ if(isset($_GET['id'],$_GET['pseudo'],$_GET['tel'],$_GET['token'])
     && !empty($_GET['id']) && !empty($_GET['pseudo']) && !empty($_GET['tel']) && !empty($_GET['token'])){
     extract($_GET);
     $id=strip_tags($id);

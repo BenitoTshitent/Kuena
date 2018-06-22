@@ -1,11 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Adrien
- * Date: 16/04/2018
- * Time: 01:11
- */
-//Ajout d'une page a l'espace membre
+ //Ajout d'une page a l'espace membre
 if(isset($_POST['range']) && !empty($_POST['range'])){
     require_once ('../modals/page.class.php');
     require_once ('../modals/page.dao.php');

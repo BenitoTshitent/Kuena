@@ -1,0 +1,43 @@
+#Gestion des erreurs
+#php_flag display_errors Off
+
+
+
+# Disable directory browsing
+Options -Indexes
+
+# Hide the contents of directories
+IndexIgnore *
+
+# Hide files of type .png, .zip, .jpg, .gif and .doc from listing
+IndexIgnore *.png *.zip *.jpg *.gif *.doc *.php
+
+
+#Refuse l'acces a .htaccess
+<Files .htaccess>
+    Order allow,deny
+    Deny from all
+</Files>
+
+#Prevenir acces aux fichiers commencant par un point
+<FilesMatch "^\." >
+     Order allow,deny
+     Deny from all
+</FilesMatch>
+
+
+<Files "config.php">
+    Order allow,deny
+    Deny from all
+</Files>
+
+
+
+<FilesMatch "\.(jpg|gif|png|php|js)$">
+   Order Deny,Allow
+   Allow from all
+</FilesMatch>
+
+ErrorDocument 403 http://127.0.0.1/kuenea/index.php?p=403
+ErrorDocument 404 http://127.0.0.1/kuenea/index.php?p=404
+ErrorDocument 500 http://127.0.0.1/kuenea/index.php?p=500

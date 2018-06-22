@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Adrien
- * Date: 31/05/2018
- * Time: 15:16
- */
 
 if(isset($_GET['ms']) && !empty($_GET['ms']) && is_numeric($_GET['ms'])){
     extract($_GET);
