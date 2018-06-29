@@ -3,39 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1b752b98-a051-4ef8-a582-aef2161fa9d5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/bootstrap/css/index.php" afterPath="$PROJECT_DIR$/assets/bootstrap/css/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/bootstrap/img/index.php" afterPath="$PROJECT_DIR$/assets/bootstrap/img/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/bootstrap/index.php" afterPath="$PROJECT_DIR$/assets/bootstrap/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/bootstrap/js/index.php" afterPath="$PROJECT_DIR$/assets/bootstrap/js/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/index.php" afterPath="$PROJECT_DIR$/assets/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/themes/css/index.php" afterPath="$PROJECT_DIR$/assets/themes/css/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/themes/images/index.php" afterPath="$PROJECT_DIR$/assets/themes/images/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/themes/js/index.php" afterPath="$PROJECT_DIR$/assets/themes/js/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/config.php" afterPath="$PROJECT_DIR$/config/config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/index.php" afterPath="$PROJECT_DIR$/config/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/annonceurs/index.php" afterPath="$PROJECT_DIR$/contents/annonceurs/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/bannieres/index.php" afterPath="$PROJECT_DIR$/contents/bannieres/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/index.php" afterPath="$PROJECT_DIR$/contents/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/pages/index.php" afterPath="$PROJECT_DIR$/contents/pages/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contents/promotions/index.php" afterPath="$PROJECT_DIR$/contents/promotions/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/apropos.php" afterPath="$PROJECT_DIR$/controls/apropos.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/banniere.php" afterPath="$PROJECT_DIR$/controls/banniere.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/conditions.php" afterPath="$PROJECT_DIR$/controls/conditions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/connect.php" afterPath="$PROJECT_DIR$/controls/connect.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/error.php" afterPath="$PROJECT_DIR$/controls/error.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/espace.php" afterPath="$PROJECT_DIR$/controls/espace.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/faq.php" afterPath="$PROJECT_DIR$/controls/faq.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/index.php" afterPath="$PROJECT_DIR$/controls/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/info.php" afterPath="$PROJECT_DIR$/controls/info.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/logout.php" afterPath="$PROJECT_DIR$/controls/logout.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/main.php" afterPath="$PROJECT_DIR$/controls/main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/page.in.php" afterPath="$PROJECT_DIR$/controls/page.in.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/page.php" afterPath="$PROJECT_DIR$/controls/page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/pages.php" afterPath="$PROJECT_DIR$/controls/pages.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/register.in.php" afterPath="$PROJECT_DIR$/controls/register.in.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/register.php" afterPath="$PROJECT_DIR$/controls/register.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/request.php" afterPath="$PROJECT_DIR$/controls/request.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/controls/unit.php" afterPath="$PROJECT_DIR$/controls/unit.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -95,9 +62,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -231,8 +196,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -247,6 +210,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -332,18 +297,19 @@
       <workItem from="1529133320660" duration="820000" />
       <workItem from="1529134647953" duration="94000" />
       <workItem from="1529251814589" duration="272000" />
-      <workItem from="1529705001244" duration="565000" />
+      <workItem from="1529705001244" duration="1160000" />
+      <workItem from="1529897879606" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1751000" />
+    <option name="totallyTimeSpent" value="2362000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="814" height="877" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21750663" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22281167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -377,7 +343,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -385,7 +350,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -393,7 +357,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -401,7 +364,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -409,7 +371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -422,7 +383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -430,7 +390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -438,7 +397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -446,7 +404,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -454,7 +411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -462,7 +418,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -470,7 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -478,7 +432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -486,7 +439,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -494,9 +446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding>
-            <marker date="1529705568095" expanded="true" signature="827:933" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -504,7 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -512,7 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -520,14 +467,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding>
-            <marker date="1529705566454" expanded="true" signature="138:442" ph="..." />
-            <marker date="1529705566454" expanded="true" signature="497:797" ph="..." />
-            <marker date="1529705566454" expanded="true" signature="852:1136" ph="..." />
-            <marker date="1529705566454" expanded="true" signature="1468:1688" ph="..." />
-            <marker date="1529705566454" expanded="true" signature="1743:1997" ph="..." />
-            <marker date="1529705566454" expanded="true" signature="2053:2259" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -535,7 +474,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -543,7 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -551,7 +488,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -559,7 +495,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -567,7 +502,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -575,7 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -583,7 +516,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -591,7 +523,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -599,7 +530,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -607,7 +537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -615,7 +544,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -623,7 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -631,7 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,7 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -647,7 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -655,10 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1369866366000" expanded="true" signature="891:953" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -666,7 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -674,7 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -682,7 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -690,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -698,7 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -706,7 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -746,9 +660,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
